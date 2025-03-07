@@ -1,10 +1,4 @@
 {
-  "mutantmonsters:root": {
-    "criteria": {
-      "killed_something": "2025-03-07 07:27:40 +0000"
-    },
-    "done": true
-  },
   "takesapillage:root": {
     "criteria": {
       "always": "2025-03-07 07:23:01 +0000"
@@ -20,12 +14,6 @@
   "repurposed_structures:root": {
     "criteria": {
       "always": "2025-03-07 07:23:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "unlock_right_away": "2025-03-07 07:23:01 +0000"
     },
     "done": true
   },
@@ -47,18 +35,6 @@
     },
     "done": true
   },
-  "ancient_elements:sword_of_space": {
-    "criteria": {
-      "sword_of_space": "2025-03-07 07:27:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-03-07 07:27:40 +0000"
-    },
-    "done": true
-  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2025-03-07 07:23:01 +0000"
@@ -68,6 +44,54 @@
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-03-07 07:23:01 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:sword_of_space": {
+    "criteria": {
+      "sword_of_space": "2025-03-07 07:27:03 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-03-07 07:27:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-03-07 07:27:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:stony_peaks": "2025-03-07 22:07:34 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/root": {
+    "criteria": {
+      "has_planks": "2025-03-07 22:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-03-07 22:07:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-03-07 22:07:39 +0000"
+    },
+    "done": true
+  },
+  "ironfurnaces:coal": {
+    "criteria": {
+      "rainbowcoal": "2025-03-07 22:06:45 +0000"
     },
     "done": true
   },
