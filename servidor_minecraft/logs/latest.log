@@ -565,3 +565,21 @@
 [07Mar2025 22:12:21.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaquin joined the game
 [07Mar2025 22:12:21.033] [Server thread/INFO] [Jade/]: Syncing config to joaquin (386de523-e971-3ef2-a261-efcae197ceaa)
 [07Mar2025 22:12:22.633] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@ce5167c[id=<null>,name=tetinha6869,properties={},legacy=false] (/127.25.195.36:43465) lost connection: Disconnected
+[07Mar2025 22:12:50.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaquin has made the advancement [Getting an Upgrade]
+[07Mar2025 22:12:53.381] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@667418f5[id=<null>,name=tetinha6869,properties={},legacy=false] (/127.25.195.36:41159) lost connection: Disconnected
+[07Mar2025 22:13:09.945] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tetinha6869[/127.25.195.36:51535] logged in with entity id 1568 at (49.615594153393744, 77.0, -5.3174729367408915)
+[07Mar2025 22:13:09.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tetinha6869 joined the game
+[07Mar2025 22:13:10.012] [Server thread/INFO] [Jade/]: Syncing config to tetinha6869 (a9aa162a-8395-3954-8642-057e7401efac)
+[07Mar2025 22:14:37.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tetinha6869: Set own game mode to Creative Mode]
+[07Mar2025 22:14:49.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaquin has made the advancement [Isn't It Iron Pick]
+[07Mar2025 22:15:21.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tetinha6869 has made the advancement [Isn't It Iron Pick]
+[07Mar2025 22:15:36.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tetinha6869: Set own game mode to Survival Mode]
+[07Mar2025 22:15:40.173] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[07Mar2025 22:16:38.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaquin has made the advancement [Monster Hunter]
+[07Mar2025 22:17:19.731] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/178, l='ServerLevel[world]', x=176.30, y=86.00, z=-70.66] died, message: 'Unemployed was slain by Zombie'
+[07Mar2025 22:17:25.672] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[07Mar2025 22:17:54.623] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[07Mar2025 22:18:19.274] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[07Mar2025 22:18:25.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaquin has made the advancement [Mine? Mine? Mine?]
+[07Mar2025 22:19:14.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tetinha6869 has made the advancement [Sweet Dreams]
+[07Mar2025 22:19:27.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaquin has made the advancement [Sweet Dreams]
