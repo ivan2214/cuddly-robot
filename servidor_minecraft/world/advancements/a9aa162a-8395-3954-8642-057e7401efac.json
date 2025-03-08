@@ -32,6 +32,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2025-03-07 22:41:15 +0000",
+      "minecraft:frozen_river": "2025-03-08 17:47:28 +0000",
+      "minecraft:birch_forest": "2025-03-08 17:50:50 +0000",
       "minecraft:savanna_plateau": "2025-03-07 22:24:21 +0000",
       "minecraft:beach": "2025-03-07 22:51:38 +0000",
       "minecraft:stony_peaks": "2025-03-07 07:23:53 +0000",
@@ -39,8 +41,11 @@
       "minecraft:sparse_jungle": "2025-03-07 22:17:32 +0000",
       "minecraft:river": "2025-03-07 07:06:53 +0000",
       "minecraft:lukewarm_ocean": "2025-03-07 22:50:11 +0000",
+      "minecraft:snowy_plains": "2025-03-08 17:46:45 +0000",
+      "minecraft:snowy_taiga": "2025-03-08 17:43:16 +0000",
       "minecraft:forest": "2025-03-07 22:46:14 +0000",
       "minecraft:lush_caves": "2025-03-07 23:21:53 +0000",
+      "minecraft:ice_spikes": "2025-03-08 17:46:51 +0000",
       "minecraft:jungle": "2025-03-07 22:50:29 +0000",
       "minecraft:ocean": "2025-03-07 22:51:59 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-03-07 22:40:21 +0000",
@@ -261,6 +266,12 @@
       "minecraft:cow": "2025-03-08 17:30:42 +0000"
     },
     "done": false
+  },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2025-03-08 17:48:33 +0000"
+    },
+    "done": true
   },
   "minecraft:story/root": {
     "criteria": {
