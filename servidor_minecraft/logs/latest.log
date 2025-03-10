@@ -35,3 +35,60 @@
 [10Mar2025 00:13:49.067] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [10Mar2025 00:14:22.018] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [10Mar2025 00:16:21.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tetinha6869: Teleported elRake to tetinha6869]
+[10Mar2025 00:17:07.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elRake was slain by Skeleton
+[10Mar2025 00:21:25.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elRake was slain by Skeleton
+[10Mar2025 00:21:26.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tetinha6869: Teleported elRake to tetinha6869]
+[10Mar2025 00:22:36.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaquin was slain by tetinha6869
+[10Mar2025 00:22:45.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tetinha6869: Teleported joaquin to tetinha6869]
+[10Mar2025 00:23:22.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elRake was slain by Skeleton
+[10Mar2025 00:23:23.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tetinha6869: Teleported elRake to tetinha6869]
+[10Mar2025 00:24:15.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elRake has reached the goal [Cosmic Discoverer]
+[10Mar2025 00:24:16.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tetinha6869: Teleported elRake to tetinha6869]
+[10Mar2025 00:25:43.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elRake was shot by Skeleton
+[10Mar2025 00:25:46.019] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[10Mar2025 00:25:51.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elRake was shot by Skeleton
+[10Mar2025 00:27:21.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaquin was slain by Skeleton
+[10Mar2025 00:27:30.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tetinha6869: Teleported joaquin to tetinha6869]
+[10Mar2025 00:27:59.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elRake was slain by Skeleton
+[10Mar2025 00:28:53.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaquin was slain by Skeleton
+[10Mar2025 00:29:05.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elRake was slain by Skeleton
+[10Mar2025 00:29:12.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tetinha6869: Teleported joaquin to tetinha6869]
+[10Mar2025 00:29:51.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tetinha6869: Teleported joaquin to tetinha6869]
+[10Mar2025 00:29:56.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tetinha6869: Teleported joaquin to tetinha6869]
+[10Mar2025 00:30:28.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elRake was slain by Skeleton
+[10Mar2025 00:30:46.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tetinha6869 was slain by Skeleton
+[10Mar2025 00:30:54.068] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[10Mar2025 00:30:55.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tetinha6869: Teleported tetinha6869 to joaquin]
+[10Mar2025 00:31:51.937] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tetinha6869 moved too quickly! -0.43065745295734814,-10.516181541923913,-1.8234090885469243
+[10Mar2025 00:33:18.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elRake has made the advancement [Ice Bucket Challenge]
+[10Mar2025 00:33:39.263] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/51096, l='ServerLevel[world]', x=3370.72, y=79.00, z=147.63] died, message: 'Unemployed suffocated in a wall'
+[10Mar2025 00:33:41.755] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3137, y=85, z=191} BlockPos{x=3137, y=83, z=191}
+[10Mar2025 00:33:46.797] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3151, y=85, z=205} BlockPos{x=3152, y=83, z=205}
+[10Mar2025 00:34:06.348] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3191, y=83, z=239} BlockPos{x=3191, y=83, z=240}
+[10Mar2025 00:34:22.579] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Mar2025 00:34:33.675] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[10Mar2025 00:35:23.427] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3442, y=81, z=135} BlockPos{x=3441, y=83, z=135}
+[10Mar2025 00:35:23.480] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3442, y=81, z=135} BlockPos{x=3441, y=83, z=135}
+[10Mar2025 00:35:23.530] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3442, y=81, z=135} BlockPos{x=3441, y=83, z=135}
+[10Mar2025 00:35:23.561] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3442, y=82, z=136} BlockPos{x=3441, y=83, z=135}
+[10Mar2025 00:35:44.318] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[10Mar2025 00:35:45.403] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elRake lost connection: Disconnected
+[10Mar2025 00:35:45.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elRake left the game
+[10Mar2025 00:35:54.601] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaquin lost connection: Disconnected
+[10Mar2025 00:35:54.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaquin left the game
+[10Mar2025 00:35:54.632] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tetinha6869 lost connection: Disconnected
+[10Mar2025 00:35:54.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tetinha6869 left the game
+[10Mar2025 00:35:56.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[10Mar2025 00:35:56.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Mar2025 00:35:56.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Mar2025 00:35:56.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Mar2025 00:35:56.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10Mar2025 00:35:59.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[10Mar2025 00:35:59.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10Mar2025 00:35:59.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10Mar2025 00:35:59.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10Mar2025 00:35:59.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[10Mar2025 00:35:59.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Mar2025 00:35:59.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Mar2025 00:35:59.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10Mar2025 00:35:59.801] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
