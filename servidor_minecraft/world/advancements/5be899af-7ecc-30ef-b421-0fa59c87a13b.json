@@ -61,8 +61,10 @@
       "minecraft:lukewarm_ocean": "2025-03-07 23:16:23 +0000",
       "minecraft:forest": "2025-03-09 23:33:11 +0000",
       "minecraft:lush_caves": "2025-03-07 23:21:47 +0000",
+      "minecraft:frozen_ocean": "2025-03-10 00:11:26 +0000",
       "minecraft:jungle": "2025-03-07 23:15:43 +0000",
-      "minecraft:ocean": "2025-03-09 23:34:15 +0000"
+      "minecraft:ocean": "2025-03-09 23:34:15 +0000",
+      "minecraft:snowy_beach": "2025-03-10 00:12:16 +0000"
     },
     "done": false
   },
@@ -179,6 +181,12 @@
     },
     "done": false
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-03-10 00:05:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-03-09 23:37:49 +0000"
@@ -190,6 +198,12 @@
       "in_witch_hut_birch": "2025-03-09 23:33:38 +0000"
     },
     "done": false
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-03-10 00:09:25 +0000"
+    },
+    "done": true
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
